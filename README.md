@@ -2,8 +2,6 @@
 
 A console-based simulation of a city's public transport network, written entirely in **C**. Six bus lines, twelve buses, and sixteen stops (A–P) run on a fixed grid map, with randomly generated passengers boarding and alighting under FIFO queueing rules while carrying up to two pieces of luggage each.
 
-**Course:** EED 1010 – Algorithms & Programming, Dokuz Eylül University, Faculty of Engineering, Electrical & Electronics Engineering Department
-**Advisor:** Dr. Özlem Öztürk
 
 <p align="center">
   <img src="images/terminal-city-grid.png" alt="Terminal rendering of the city grid with bus stops A-P and live bus positions" width="600">
